@@ -6,7 +6,8 @@
     "type": "module",
     "scripts": {
         "test": "npm index.js",
-        "start": "nodemon index.js"
+        "start": "nodemon index.js",
+        "dev": "nodemon index.js"
     },
     "repository": {
         "type": "git",
